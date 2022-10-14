@@ -1,0 +1,17 @@
+C:\Users\PC\source\repos\FuzzyCMeans\bin\Debug\net6.0-windows\FuzzyCMeans.exe
+C:\Users\PC\source\repos\FuzzyCMeans\bin\Debug\net6.0-windows\FuzzyCMeans.deps.json
+C:\Users\PC\source\repos\FuzzyCMeans\bin\Debug\net6.0-windows\FuzzyCMeans.runtimeconfig.json
+C:\Users\PC\source\repos\FuzzyCMeans\bin\Debug\net6.0-windows\FuzzyCMeans.dll
+C:\Users\PC\source\repos\FuzzyCMeans\bin\Debug\net6.0-windows\FuzzyCMeans.pdb
+C:\Users\PC\source\repos\FuzzyCMeans\obj\Debug\net6.0-windows\FuzzyCMeans.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\FuzzyCMeans\obj\Debug\net6.0-windows\FuzzyCMeans.Form1.resources
+C:\Users\PC\source\repos\FuzzyCMeans\obj\Debug\net6.0-windows\FuzzyCMeans.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\FuzzyCMeans\obj\Debug\net6.0-windows\FuzzyCMeans.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\FuzzyCMeans\obj\Debug\net6.0-windows\FuzzyCMeans.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\FuzzyCMeans\obj\Debug\net6.0-windows\FuzzyCMeans.AssemblyInfo.cs
+C:\Users\PC\source\repos\FuzzyCMeans\obj\Debug\net6.0-windows\FuzzyCMeans.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\FuzzyCMeans\obj\Debug\net6.0-windows\FuzzyCMeans.dll
+C:\Users\PC\source\repos\FuzzyCMeans\obj\Debug\net6.0-windows\refint\FuzzyCMeans.dll
+C:\Users\PC\source\repos\FuzzyCMeans\obj\Debug\net6.0-windows\FuzzyCMeans.pdb
+C:\Users\PC\source\repos\FuzzyCMeans\obj\Debug\net6.0-windows\FuzzyCMeans.genruntimeconfig.cache
+C:\Users\PC\source\repos\FuzzyCMeans\obj\Debug\net6.0-windows\ref\FuzzyCMeans.dll
